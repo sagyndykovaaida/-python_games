@@ -11,3 +11,13 @@ def get_dict():
     fruits = {"apple": "red", "banana": "yellow", "orange": "orange"}
     return fruits
 
+squares = get_list(5)
+print(squares)  
+
+my_tuple = get_tuple(1, 2, 3)
+print(my_tuple) 
+
+fruit_dict = get_dict()
+print(fruit_dict)  
+
+
